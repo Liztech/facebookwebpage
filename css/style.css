@@ -1,0 +1,43 @@
+#sidebar {
+  float: right;
+  padding: 10px;
+  margin-right: 30px;
+}
+
+#branding {
+  float: left;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.dark {
+  padding: 20px 30px 20px 30px;
+  background: #eeeff1;
+  color: #ffffff;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.button_1 {
+  color: #ffffff;
+  background: #114fcc;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px 50px 10px 50px;
+  display: block;
+}
+
+.button_2 {
+  color: #ffffff;
+  background: #0ce02f;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 20px;
+}
+
+input {
+  padding: 4px;
+  height: 30px;
+  width: 300px;
+}
